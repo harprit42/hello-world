@@ -1,2 +1,2 @@
 # hello-world
-First repository to put code in github
+First repository as per readme guide in Github
